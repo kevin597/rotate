@@ -1,0 +1,18 @@
+/**index.wxss**/
+.bg_1{
+  width: 650rpx;
+  height: 651rpx;
+  position: relative;
+}
+.bg_2{
+  width: 514rpx;
+  height: 514rpx;
+  position: absolute;
+  top: 59rpx;
+}
+.start{
+  width: 134rpx;
+  height: 163rpx;
+  position: absolute;
+  top: 220rpx;
+}

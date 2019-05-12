@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <image src='/images/bg_1.jpg' class="bg_1"></image>
+  <image src='/images/bg_2.png' animation="{{rotate}}" class="bg_2"></image>
+  <image src='/images/start.png' bindtap="start" class="start"></image>
+</view>
